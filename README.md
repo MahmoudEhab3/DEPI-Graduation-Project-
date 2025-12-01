@@ -20,4 +20,3 @@ The model predicts employee attrition as **Yes / No**, along with the prediction
 
 ---
 
-ججج
